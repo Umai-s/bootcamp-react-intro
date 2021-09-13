@@ -6,11 +6,11 @@ function App() {
   return (
     <div className="App">
       Hello world! Starting React..
-      <Student name={Umaima}/>
+      <Student name="Umaima"/>
       <hr/>
-      <Student name={Hafsah}/>
+      <Student name="Hafsah"/>
       <hr/>
-      <Student name={Ayesha}/>
+      <Student name="Ayesha"/>
     </div>
   );
 }
